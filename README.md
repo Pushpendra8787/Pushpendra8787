@@ -16,14 +16,17 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-<a href="https://www.instagram.com/pushpendra_2k3/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/pushpendra_2k3/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=none&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/pushpendra-kushwaha-b5999b314/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=none&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/pushpendra-kushwaha-b5999b314/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=none&logoColor=white"/>
+  </a>
 
+  <a href="https://github.com/Pushpendra8787/Pushpendra8787/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=none&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -67,11 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&cache_seconds=1800" />
-</p>
+
 
 ---
 
@@ -90,9 +89,11 @@
 ---
 
 ### 🚀 Projects:
-- 🔹 Social Media App(Yarana)
-- 🔹 Digital portfolio website
-- 🔹 Ai Summary App
+- Hospital Management System(Fully Functional)
+- Social Media App(Yarana)
+- Digital portfolio website
+- Judiciary Report Summarizer
+  - An AI-powered application that summarizes lengthy judicial reports into concise, easy-to-understand summaries.
 
 ---
 
